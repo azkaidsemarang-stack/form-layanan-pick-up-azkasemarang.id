@@ -56,8 +56,8 @@
       <div class="service-item"><span>Deep clean (cuci luar dalam)</span><span>25K</span></div>
       <div class="service-item"><span>Fast clean (cuci luar)</span><span>20K</span></div>
       <div class="service-item"><span>Full treatment</span><span>60K</span></div>
-      <div class="service-item"><span>Unyellowing</span><span>45K</span></div>
-      <div class="service-item"><span>Reglue</span><span>35K</span></div>
+      <div class="service-item"><span>Unyellowing</span><span>50K</span></div>
+      <div class="service-item"><span>Reglue</span><span>40K</span></div>
       <div class="service-item"><span>Deep clean express</span><span>40K</span></div>
       <div class="service-item"><span>Sole (jahit)</span><span>35K</span></div>
       <div class="service-item"><span>Repainting (start from)</span><span>100K</span></div>
